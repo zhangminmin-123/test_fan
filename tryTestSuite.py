@@ -30,7 +30,7 @@ def mysuite():
     suite.addTest(MyFirstUnit("test_case_1"))
     # suite.addTest(MyFirstUnit("test_case_num"))
     suite.addTest(MyFirstUnit("test_case_list"))
-    suite.addTest(Baiducase("test_case_1"))
+    # suite.addTest(Baiducase("test_case_1"))
     return suite
 
 
