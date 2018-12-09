@@ -33,7 +33,7 @@ sender = '17710369971@163.com'
 receiver = ['17710369971@163.com']
 subject = 'Python email test'
 mailbody = "Hi!\nHow are you?\nHere is the link you wanted:\nhttp://www.testfan.cn"
-attachfile = "smail.py"
+attachfile = reportfilename
 # 只需要改这些即可，结束
 
 
